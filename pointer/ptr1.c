@@ -4,8 +4,9 @@ int main(){
 	char ch='A';
 	char* p=&ch;
 	int* ip=&x;
-	printf("%d\n",p);
-	printf("%d\n",p);
-	printf("%ld\n%ld",sizeof(p),sizeof(ip));
+	printf("p=%d\n",p);
+	printf("ip=%c\n",p);
+	printf("address of x=%d\n",&x);
+	printf("%ld\n%ld\n",sizeof(p),sizeof(ip));
 	return 0;
 }
