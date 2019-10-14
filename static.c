@@ -1,18 +1,16 @@
 #include<stdio.h>
 void printer();
-void painter();
-static int x=10;
 int main(){
 printer();
-painter();
+printer();
+printer();
+printer();
 return 0;
 }
-
 void printer(){
-static int y=20;
-printf("%d\t%d\n",x,y);
-}
-
-void painter(){
-printf("%d\t%d\n",x,y);  //m
+	int y=20;
+	static int x;
+	x=y;
+	printf("%d\n",x);
+	x++;
 }
