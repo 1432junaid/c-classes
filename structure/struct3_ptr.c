@@ -9,7 +9,9 @@ int main(){
 	x.name="Khalid";
 	x.age=21;
 	printf("%s\t",p->name);
-	printf("%d\n",p->name);
+	printf("%d\n",p->age);
+	printf("%s\t",x.name);
+	printf("%d\n",x.age);
 
 	return 0;
 }
