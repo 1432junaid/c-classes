@@ -21,25 +21,6 @@ int oct_to_dec(unsigned int data){
 }
 
 
-void hex_to_dec(unsigned int hex){
-	int sum=0;
-	char a;
-	int  i=0;
-	while(hex){
-		sum=sum+(hex%10)*pow(16,i);
-		hex=hex/10;
-		i++;
-	}
-	return sum;
-	switch(a){
-		case A:
-		return  10;
-		break;
-	}
-
-
-
-}
 
 int main(){
 
@@ -47,10 +28,7 @@ int main(){
 	printf("Enter an octal number\n");
 	scanf("%d",&oct);
 
-//	int result = oct_to_dec(oct);
-//	printf("\n\noct=%o\n",result);
-
-	int r2 = hex_to_dec(oct);
-	printf("hex=%x",r2);
+	int result = oct_to_dec(oct);
+	printf("oct to decimal=%d\n",result);
 	return 0;
 }
