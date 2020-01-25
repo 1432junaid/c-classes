@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(){
+	char *sentence;
+	printf("Enter a sentence\n");
+	sentence(sentence);
+}
