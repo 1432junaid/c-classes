@@ -1,19 +1,19 @@
-btsk01 : WAP to check a number is even or odd.						1
-btsk02 : WAP to check whether character is a vowel.					1
-btsk03 : WAP to check a year is a leap year or not.					1
-btsk04 : WAP to print factorial of a number.						1
+done	btsk01 : WAP to check a number is even or odd.						1
+done	btsk02 : WAP to check whether character is a vowel.					1
+done	btsk03 : WAP to check a year is a leap year or not.					1
+done	btsk04 : WAP to print factorial of a number.						1
 btsk05 : WAP to find GCD of a number.
 btsk06 : WAP to print LCM of n integer.
 btsk07 : WAP to convert decimal to binary number.
-btsk08 : WAP to print (ncr) and (npr).
-btsk09 : WAP to swap two numbers.							1
-btsk10 : WAP to reverse an decimal number.						1
-btsk11 : WAP to determine a decimal number is palindrome.				1
-btsk12 : WAP to determine a number is prime or not.					1
+btsk08 : WAP to print (ncr) and (npr).	
+done	btsk09 : WAP to swap two numbers.							1
+done	btsk10 : WAP to reverse an decimal number.						1
+done	btsk11 : WAP to determine a decimal number is palindrome.				1
+done	btsk12 : WAP to determine a number is prime or not.					1
 btsk13 : WAP to determine a number is amrstrong number.					
 btsk14 : WAP to print n armstrong numbers.						
-btsk15 : WAP to print fibonnaci series upto n terms.
-btsk16 : WAP to determine a number is fibonnaci series or not.
+done	btsk15 : WAP to print fibonnaci series upto n terms.					1
+done	btsk16 : WAP to determine a number is fibonnaci series or not.					1
 btsk17 : WAP to print floyd's triangle.
 btsk18 : WAP to print pascal triange.
 btsk19 : WAP to find second max and second min for an array of integers.
