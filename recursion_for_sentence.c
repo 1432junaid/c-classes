@@ -8,6 +8,7 @@ void rev(){
 	char c;
 	scanf("%c",&c);
 	if(c != '\n'){
+//		printf("%c\n",c);
 		rev();
 		printf("%c",c);
 	}
